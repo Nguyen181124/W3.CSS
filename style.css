@@ -1,0 +1,10 @@
+.nav-hover:hover{
+    color: #000000 !important;
+    background-color: #cccccc;
+}
+.search-hover:hover{
+    background-color: rgb(211, 39, 39);
+}
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+}
